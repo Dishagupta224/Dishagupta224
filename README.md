@@ -1,5 +1,5 @@
 <h1 align="center">
-  DISHA GUPTA <sub><img src="cat.gif" height="40" alt="Cat" /></sub>
+  DISHA GUPTA <sub><sub><img src="cat.gif" height="40" alt="Cat" /></sub></sub>
 </h1>
 <p align="center"><i>Creatively learning and building.</i></p>
 
