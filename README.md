@@ -1,4 +1,6 @@
-<h1 align="center">Disha Gupta</h1>
+<h1 align="center">
+  DISHA GUPTA <img src="cat.gif" height="44" alt="Cat" />
+</h1>
 <p align="center"><i>Creatively learning and building.</i></p>
 
 <p align="center">
