@@ -1,82 +1,67 @@
-<!--
-Profile README for: github.com/Dishagupta224
-Tip: add a banner GIF by replacing the placeholder below with your own.
--->
+<!-- Profile README for: github.com/Dishagupta224 -->
 
-<!-- Banner / vibe -->
-<p align="center">
-  <!--
-    Add your own GIF at: assets/banner.gif
-    Then uncomment the next line.
-  -->
-  <!-- <img src="assets/banner.gif" width="860" alt="terminal banner gif" /> -->
-</p>
-
-<h1 align="center">Hi, I'm Disha Gupta</h1>
+<h1 align="center">Disha Gupta</h1>
 <p align="center"><i>Creatively learning and building.</i></p>
 
 <p align="center">
-  <a href="https://dishagupta.work/"><b>Portfolio</b></a>
+  <a href="https://dishagupta.work/">Portfolio</a>
   ·
-  <a href="https://www.linkedin.com/in/dishagupta01/"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/dishagupta01/">LinkedIn</a>
 </p>
 
----
+<p align="center">
+  <!-- Cosmic/physics banner GIF (recommended): assets/cosmic.gif -->
+  <!-- <img src="assets/cosmic.gif" width="900" alt="cosmic terminal banner gif" /> -->
+</p>
+
+<br />
+
+### Cold open
+
+> Knock knock knock… curiosity.  
+> I build things that feel real, and I’m learning one concept at a time.
+
+### Abstract
 
 ```txt
-$ whoami
-Disha (Dishagupta224)
-
-$ cat ~/now.txt
-- building projects that feel "real" (not just demos)
-- sharpening DSA (steady, not sprinting)
-- tinkering with distributed-ish things (Kafka, websockets, containers)
-
-$ echo $STACK
-Python · JavaScript · Kafka · Docker · WebSockets
+Objective: ship practical projects + level up problem solving.
+Methods: Python/JS, Kafka, WebSockets, Docker — lots of iterations.
+Results: small wins, cleaner code, better instincts.
 ```
 
----
-
-### Featured builds
+### Act I — Builds
 
 <p>
   <a href="https://github.com/Dishagupta224/PriceWise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishagupta224&repo=PriceWise&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishagupta224&repo=PriceWise&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="PriceWise repo card" />
   </a>
   <a href="https://github.com/Dishagupta224/StatusPulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishagupta224&repo=StatusPulse&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishagupta224&repo=StatusPulse&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="StatusPulse repo card" />
   </a>
 </p>
 
-> Third project is loading… (I’ll pin it here once it’s public.)
+<sub>Third project is loading… (I’ll pin it the moment it’s public.)</sub>
 
----
-
-### Stats (because GitHub likes receipts)
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dishagupta224&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishagupta224&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### DSA corner
+### Act II — DSA
 
 ```txt
-Goal: consistent reps > motivation spikes
-Status: learning patterns, writing clean solutions, re-solving old problems
+Rule (a.k.a. roommate agreement): consistency > intensity.
+Currently: patterns, clean explanations, and re-solving old problems.
 ```
 
----
+### Soundtrack
 
-### Offline, I also…
+<a href="https://open.spotify.com/track/0WBKPqbuTQcv3odL0kpLAT">
+  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-Now%20playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
-Paint / craft / bake — basically anything where “messy first draft” becomes something nice.
+### GitHub snapshot
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dishagupta224&label=visits&color=0e75b6&style=flat" alt="profile views" />
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dishagupta224&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="github stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishagupta224&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="top languages" />
 </p>
+
+### Tag scene
+
+Painting · crafting · baking — anything where a messy first draft turns into something nice.
