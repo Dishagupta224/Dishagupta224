@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/dishagupta01/">LinkedIn</a>
 </p>
 
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Dishagupta224&style=for-the-badge&color=0e75b6" />
+</p>
+
 ---
 
 ### Tech Stack
@@ -21,12 +25,11 @@
 
 ### Featured Projects
 
-- 🧠 <a href="https://github.com/Dishagupta224/PriceWise"><b>PriceWise</b></a>
-- ⚡ <a href="https://github.com/Dishagupta224/StatusPulse"><b>StatusPulse</b></a>
+- &#129504; <a href="https://github.com/Dishagupta224/PriceWise"><b>PriceWise</b></a>
+- &#9889; <a href="https://github.com/Dishagupta224/StatusPulse"><b>StatusPulse</b></a>
 
 ### GitHub Stats
 
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Dishagupta224&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishagupta224&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" />
-</p>
+| GitHub stats | Top languages |
+|---|---|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dishagupta224&show_icons=true&theme=tokyonight&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishagupta224&layout=compact&theme=tokyonight&hide_border=true) |
