@@ -5,44 +5,44 @@
 
 <p align="center">
   <a href="https://dishagupta.work/">Portfolio</a>
-  ·
+  &middot;
   <a href="https://www.linkedin.com/in/dishagupta01/">LinkedIn</a>
 </p>
 
 <p align="center">
-  <!-- Cosmic/physics banner GIF (recommended): assets/cosmic.gif -->
-  <!-- <img src="assets/cosmic.gif" width="900" alt="cosmic terminal banner gif" /> -->
+  <img src="./outerspace_img.png" width="900" alt="Outer space banner" />
 </p>
 
-<br />
+---
 
 ### Cold open
 
-> Knock knock knock… curiosity.  
-> I build things that feel real, and I’m learning one concept at a time.
+> Knock knock knock... curiosity.
+>
+> I build things that feel real, and I learn one concept at a time. (Bazinga.)
 
 ### Abstract
 
 ```txt
 Objective: ship practical projects + level up problem solving.
-Methods: Python/JS, Kafka, WebSockets, Docker — lots of iterations.
+Methods: Python/JS, Kafka, WebSockets, Docker -- lots of iterations.
 Results: small wins, cleaner code, better instincts.
 ```
 
-### Act I — Builds
+### Act I - Builds
 
-<p>
+<p align="center">
   <a href="https://github.com/Dishagupta224/PriceWise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishagupta224&repo=PriceWise&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="PriceWise repo card" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dishagupta224&repo=PriceWise&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="PriceWise repo card" />
   </a>
   <a href="https://github.com/Dishagupta224/StatusPulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dishagupta224&repo=StatusPulse&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="StatusPulse repo card" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dishagupta224&repo=StatusPulse&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="StatusPulse repo card" />
   </a>
 </p>
 
-<sub>Third project is loading… (I’ll pin it the moment it’s public.)</sub>
+<p align="center"><sub>Third project is loading... (I'll pin it the moment it's public.)</sub></p>
 
-### Act II — DSA
+### Act II - DSA
 
 ```txt
 Rule (a.k.a. roommate agreement): consistency > intensity.
@@ -57,11 +57,11 @@ Currently: patterns, clean explanations, and re-solving old problems.
 
 ### GitHub snapshot
 
-<p>
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dishagupta224&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="github stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishagupta224&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="top languages" />
 </p>
 
 ### Tag scene
 
-Painting · crafting · baking — anything where a messy first draft turns into something nice.
+Painting &middot; crafting &middot; baking -- anything where a messy first draft turns into something nice.
