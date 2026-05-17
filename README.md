@@ -1,6 +1,10 @@
 <h1 align="center">Disha Gupta</h1>
 <p align="center"><i>Creatively learning and building.</i></p>
 
+<p align="center">
+  <img src="./mario.gif" width="900" alt="Mario running banner" />
+</p>
+
 ---
 
 ### About
